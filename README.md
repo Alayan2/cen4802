@@ -1,2 +1,3 @@
 # cen4802
-Software Int, Config, and Testing
+Repository for CEN4802: Software Int, Config, and Testing
+Natalie A. 
