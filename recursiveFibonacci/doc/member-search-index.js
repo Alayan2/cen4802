@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"recursiveFibonacci","c":"Main","l":"fibRecursive(long)"},{"p":"recursiveFibonacci","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"recursiveFibonacci","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"}]
